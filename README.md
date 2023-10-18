@@ -52,4 +52,27 @@ Hi there! 👋 My name is Ayesha and I am a 5th semester Information Technology 
         <img alt="Bootstrap"
             src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
     </a>
+    <a href="https://tailwindcss.com/" target="_blank">
+        <img alt="Tailwindcss"
+            src="https://img.shields.io/badge/tailwindcss-%23563D7C.svg?style=for-the-badge&logo=tailwindcss&logoColor=white">
+    </a>
+       <br />
+    <br />
+    <summary><b>Backend Developement</b></summary>
+    <a href="https://www.w3.org/mongodb/" target="_blank">
+        <img alt="MONGODB"
+            src="https://img.shields.io/badge/mongodb-%23E34F26.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+    </a>
+    <a href="https://www.w3schools.com/expressjs/" target="_blank">
+        <img alt="ExpressJS"
+            src="https://img.shields.io/badge/expressjs-%231572B6.svg?style=for-the-badge&logo=expressjs&logoColor=white">
+    </a>
+    <a href="https://www.w3schools.com/nextjs/" target="_blank">
+        <img alt="NextJS"
+            src="https://img.shields.io/badge/nextjs-%2320232a.svg?style=for-the-badge&logo=nextjs&logoColor=%2361DAFB">
+    </a>
+    <a href="https://www.w3schools.com/django/" target="_blank">
+        <img alt="Django"
+            src="https://img.shields.io/badge/django-%2320232a.svg?style=for-the-badge&logo=django&logoColor=%2361DAFB">
+    </a>
     
