@@ -2,7 +2,7 @@
         width="35"></h1>
 
 ## :sassy_man: About me
-Hi there! 👋 My name is Ayesha and I am a 5th semester Information Technology student at Air University, Islamabad. My passion lies in web development  and I have gained expertise in the frontend development through my studies, projects and internships. I am a proactive learner and enjoy staying up to date with the latest trends and developments in the field of Information Technology. I have a love for Art and I love exploring more !
+Hi there! 👋 My name is Ayesha and I am a 5th semester Information Technology student at Air University, Islamabad. My passion lies in web development as well as UI/UX Designing and I have gained expertise in the MERN stack web development through my studies, projects and internships. I am a proactive learner and enjoy staying up to date with the latest trends and developments in the field of Information Technology. I have a love for Art and I love exploring more !
 
 ## 👯 Connect with me
 <p>
