@@ -10,7 +10,7 @@ Hi there! 👋 My name is Ayesha and I am a 7th semester Information Technology 
         <img alt="JavaScript"
             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
-    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=as1526313@gmail.com" target="_blank">
+    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ayeshashahzad501@gmail.com" target="_blank">
         <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
     <a href="https://github.com/Ayshh1" target="_blank">
