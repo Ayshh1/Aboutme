@@ -1,30 +1,30 @@
-<h1 align="center">Hey , I'm Ayesha Shahzad <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
-        width="35"></h1>
+<h1 align="center">Hey, I'm Ayesha Shahzad <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-## :sassy_man: About me
-Hi there! 👋 My name is Ayesha and I am a 7th semester Information Technology student at Air University, Islamabad. My passion lies in web development as well as UI/UX Designing. Besides gaining expertise in the MERN stack web development through my studies, projects and internships. I am a proactive learner and enjoy staying up to date with the latest trends and developments in the field of Information Technology. I have a love for Art and I love exploring more!
+## 🙋‍♀️ About Me
+Hi there! 👋 My name is Ayesha, and I am currently in my 8th semester of Information Technology at Air University, Islamabad. I’m set to graduate in **June 2025**.  
 
-## 👯 Connect with me
+My passion lies in **web development** and **UI/UX design**. I specialize in the **MERN stack**, along with **Next.js** and **NestJS**, and have honed my skills through academic projects, internships, and self-driven learning. I'm a proactive learner who enjoys keeping up with the latest trends in technology. I'm also a creative soul who loves art and exploring new ideas!
+
+## 👯 Connect with Me
 <p>
     <a href="https://www.linkedin.com/in/ayesha-shahzad-3441b3248" target="_blank">
-        <img alt="JavaScript"
+        <img alt="LinkedIn"
             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
     <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ayeshashahzad501@gmail.com" target="_blank">
-        <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+        <img alt="Gmail"
+            src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
     <a href="https://github.com/Ayshh1" target="_blank">
-        <img alt="Gmail"
+        <img alt="GitHub"
             src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
     </a>
 </p>
 
-
-
 ## 🛠️ My Skills
 
+### 💻 Languages
 <p>
-    <summary><b>Languages</b></summary>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
         <img alt="JavaScript"
             src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
@@ -33,9 +33,10 @@ Hi there! 👋 My name is Ayesha and I am a 7th semester Information Technology 
         <img alt="Python"
             src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
     </a>
-    <br />
-    <br />
-    <summary><b>Frontend Developement</b></summary>
+</p>
+
+### 🎨 Frontend Development
+<p>
     <a href="https://www.w3.org/html/" target="_blank">
         <img alt="HTML"
             src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
@@ -44,7 +45,7 @@ Hi there! 👋 My name is Ayesha and I am a 7th semester Information Technology 
         <img alt="CSS"
             src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
     </a>
-    <a href="https://www.w3schools.com/react/" target="_blank">
+    <a href="https://reactjs.org/" target="_blank">
         <img alt="ReactJS"
             src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
     </a>
@@ -53,26 +54,31 @@ Hi there! 👋 My name is Ayesha and I am a 7th semester Information Technology 
             src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
     </a>
     <a href="https://tailwindcss.com/" target="_blank">
-        <img alt="Tailwindcss"
-            src="https://img.shields.io/badge/tailwindcss-%23563D7C.svg?style=for-the-badge&logo=tailwindcss&logoColor=white">
+        <img alt="TailwindCSS"
+            src="https://img.shields.io/badge/tailwindcss-06B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white">
     </a>
-       <br />
-    <br />
-    <summary><b>Backend Developement</b></summary>
-    <a href="https://www.w3.org/mongodb/" target="_blank">
-        <img alt="MONGODB"
-            src="https://img.shields.io/badge/mongodb-%23E34F26.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+</p>
+
+### 🔧 Backend Development
+<p>
+    <a href="https://www.mongodb.com/" target="_blank">
+        <img alt="MongoDB"
+            src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white">
     </a>
-    <a href="https://www.w3schools.com/expressjs/" target="_blank">
+    <a href="https://expressjs.com/" target="_blank">
         <img alt="ExpressJS"
-            src="https://img.shields.io/badge/expressjs-%231572B6.svg?style=for-the-badge&logo=expressjs&logoColor=white">
+            src="https://img.shields.io/badge/express.js-000000.svg?style=for-the-badge&logo=express&logoColor=white">
     </a>
-    <a href="https://www.w3schools.com/nextjs/" target="_blank">
-        <img alt="NextJS"
-            src="https://img.shields.io/badge/nextjs-%2320232a.svg?style=for-the-badge&logo=nextjs&logoColor=%2361DAFB">
+    <a href="https://nextjs.org/" target="_blank">
+        <img alt="Next.js"
+            src="https://img.shields.io/badge/next.js-000000.svg?style=for-the-badge&logo=next.js&logoColor=white">
     </a>
-    <a href="https://www.w3schools.com/django/" target="_blank">
+    <a href="https://nestjs.com/" target="_blank">
+        <img alt="NestJS"
+            src="https://img.shields.io/badge/nestjs-E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white">
+    </a>
+    <a href="https://www.djangoproject.com/" target="_blank">
         <img alt="Django"
-            src="https://img.shields.io/badge/django-%2320232a.svg?style=for-the-badge&logo=django&logoColor=%2361DAFB">
+            src="https://img.shields.io/badge/django-092E20.svg?style=for-the-badge&logo=django&logoColor=white">
     </a>
-    
+</p>
