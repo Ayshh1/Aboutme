@@ -9,13 +9,10 @@
 <br/>
 
 <!-- Social Badges -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-ayesha--portfolio.vercel.app-8ff5ff?style=for-the-badge&logo=vercel&logoColor=white)](https://ayesha-portfolio-five.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ayesha--portfolio.vercel.app-8ff5ff?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-ayeshashahzad501-9666s-projects.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ayesha--shahzad25-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayesha-shahzad25/)
 [![Gmail](https://img.shields.io/badge/Gmail-ayeshashahzad501-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayeshashahzad501@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-ayshh1-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayshh1)
-
-<!-- Profile Views -->
-![Profile Views](https://komarev.com/ghpvc/?username=ayshh1&color=8ff5ff&style=for-the-badge&label=Profile+Views)
 
 </div>
 
@@ -27,7 +24,7 @@
 - 🛠️ My stack: **Next.js, React, TypeScript, Node.js, NestJS, MongoDB, TailwindCSS, Firebase, BullMQ, Redis**
 - 🏆 Winner of **QueenOfCodes** — competitive coding competition among 10+ teams
 - 🎓 B.S. in Information Technology — **Air University, Islamabad** | CGPA: 3.50
-- 🌐 Explore my work at [ayesha-portfolio-five.vercel.app](https://ayesha-portfolio-five.vercel.app/)
+- 🌐 Explore my work at [portfolio-ayeshashahzad501-9666s-projects.vercel.app](https://portfolio-ayeshashahzad501-9666s-projects.vercel.app/)
 - 💬 Ask me about: **Next.js, Node.js, NestJS, REST APIs, MongoDB, BullMQ, Redis, TypeScript**
 - 📫 Reach me at: [ayeshashahzad501@gmail.com](mailto:ayeshashahzad501@gmail.com)
 - 🤝 Connect: [@ayesha-shahzad25](https://www.linkedin.com/in/ayesha-shahzad25/)
@@ -152,7 +149,7 @@ const experience = {
 
 ### 🤝 Let's Connect & Build Something Amazing!
 
-[![Portfolio](https://img.shields.io/badge/🌐_Visit_Portfolio-0e0e13?style=for-the-badge)](https://ayesha-portfolio-five.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/🌐_Visit_Portfolio-0e0e13?style=for-the-badge)](https://portfolio-ayeshashahzad501-9666s-projects.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/💼_Connect_on_LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/ayesha-shahzad25/)
 [![Email](https://img.shields.io/badge/📧_Send_an_Email-EA4335?style=for-the-badge)](mailto:ayeshashahzad501@gmail.com)
 
